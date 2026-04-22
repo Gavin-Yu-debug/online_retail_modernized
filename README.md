@@ -214,24 +214,3 @@ Possible next improvements:
 
 ---
 
-## Project Structure
-
-```bash
-.
-├── data/
-├── images/
-├── online-retail-data-clustering.ipynb
-├── online_retail_modernized.ipynb
-├── online_retail_modernized.py
-├── outputs/
-│   ├── project_summary.md
-│   ├── resume_bullets.md
-│   ├── data_quality_summary.csv
-│   ├── cluster_comparison.csv
-│   ├── cluster_profiles.csv
-│   ├── model_comparison_classification.csv
-│   ├── model_comparison_regression.csv
-│   ├── customer_scoring_sample.csv
-│   ├── business_recommendations.md
-│   └── ...
-└── README.md
