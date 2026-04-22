@@ -1,0 +1,5 @@
+cluster_id,final_segment,customer_count,customer_share,recency_median,frequency_median,monetary_median,avg_order_value_median,sales_last_30d_median,return_ratio_median
+1,At Risk High Value,2267,0.4318917889121737,146.0,4.0,1407.8600000000001,354.05333333333334,0.0,0.002854109346637288
+0,Low Value Infrequent,1982,0.37759573252048007,300.0,1.0,266.4,176.025,0.0,0.0
+2,High Value Loyal,863,0.16441226900361974,13.0,9.0,3025.34,342.3572093023256,338.95,0.006397411531567858
+3,Return-Heavy Occasional,137,0.026100209563726422,283.0,2.0,473.90999999999997,237.36,0.0,0.5
